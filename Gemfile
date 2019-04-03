@@ -5,6 +5,7 @@ ruby RUBY_VERSION
 gem "jekyll", "3.4.0"
 
 gem 'jekyll-paginate'
+gen 'jekyll-gist'
 gem "redcarpet"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
