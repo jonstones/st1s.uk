@@ -16,7 +16,7 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-gems: [jekyll-paginate,redcarpet]
+gems: [jekyll-paginate,jekyll-gist,redcarpet]
 
 paginate:         5
 
