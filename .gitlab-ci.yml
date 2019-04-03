@@ -6,6 +6,7 @@ variables:
 
 before_script:
   - bundle install
+  - gem install jekyll-paginate
 
 test:
   stage: test
