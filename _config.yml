@@ -12,6 +12,13 @@ description:      'A brazen two-column <a href="http://jekyllrb.com" target="_bl
 url:              ""
 baseurl:          /hyde/
 
+defaults:
+  -
+    scope:
+      path: "public"
+      type: "static"
+
+
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
