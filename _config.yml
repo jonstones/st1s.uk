@@ -6,22 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Jon Stones
+tagline:          '🙉 Talk is Cheap. Show me the code...'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/jonstones" target="_blank">@jonstones</a>.'
 url:              ""
 baseurl:          /hyde/
 
-defaults:
-  -
-    scope:
-      path: "public"
-      type: "static"
-
-
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Jon Stones'
+  url:            https://twitter.com/jonstones
 
 gems: [jekyll-paginate,jekyll-gist,redcarpet,pygments.rb]
 
