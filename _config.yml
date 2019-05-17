@@ -12,6 +12,9 @@ description:      'Notes and musings for my future self.'
 url:              ""
 baseurl:          https://st1s.uk/
 
+site.author.name: st1s
+site.author.email: st1s@st1s.uk
+
 gems: [jekyll-paginate,jekyll-gist,redcarpet,pygments.rb]
 
 paginate:         5
