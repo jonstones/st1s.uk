@@ -6,15 +6,11 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Jon Stones
+title:            st1s.uk
 tagline:          'Talk is Cheap. Show me the code...'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/jonstones" target="_blank">@jonstones</a>.'
 url:              ""
 baseurl:          /hyde/
-
-author:
-  name:           'Jon Stones'
-  url:            https://twitter.com/jonstones
 
 gems: [jekyll-paginate,jekyll-gist,redcarpet,pygments.rb]
 
@@ -22,6 +18,3 @@ paginate:         5
 
 # Custom vars
 version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
