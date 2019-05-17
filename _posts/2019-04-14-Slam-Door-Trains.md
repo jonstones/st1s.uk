@@ -3,6 +3,8 @@ layout: post
 title: Slam Door Trains
 category: observations 
 tag: slam door trains Brighton
+categories: [travel, funny]
+tags: [slam, door, trains, brighton, funny]
 excerpt_separator: <!--more-->
 ---
 
