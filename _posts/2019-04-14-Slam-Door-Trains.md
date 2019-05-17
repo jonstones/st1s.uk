@@ -3,6 +3,7 @@ layout: post
 title: Slam Door Trains
 category: observations 
 tag: slam door trains Brighton
+excerpt_separator: <!--more-->
 ---
 
 Brighton has a fairly long platform, about 3 times longer than most stations. We were on an old slam door train, and queued by the door ready to get off.
@@ -12,7 +13,7 @@ The train comes into the station, and gradually slows until it comes to rest by 
 On this particular day, we are still moving at quite a pace as we begin passing the platform. 
 
 Due to the fact that the platform is a universal grey tarmac, and wide, the actual speed is deceptive. The gentleman in front, and charged with opening the door for us all, was clearly in a rush. I was second in line. 
-
+<!--more-->
 No sooner had the train started passing the platform, the man opened the window, reached out, unlocked the door, and opened it half way.. he paused for a couple of seconds to judge 'his environment'... all safe.. and he stepped off the train...
 
 Just as his feet touched the platform, they were whipped out from under him. In a panic the man manages to get his arm through the window, and start hanging onto open door.
