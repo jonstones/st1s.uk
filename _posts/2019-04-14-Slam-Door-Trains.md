@@ -8,7 +8,7 @@ tags: [slam, door, trains, brighton, funny]
 excerpt_separator: <!--more-->
 ---
 
-Brighton has a fairly long platform, about 3 times longer than most stations. We were on an old slam door train, and queued by the door ready to get off.
+Brighton has a fairly long platform, about 3 times longer than most stations. We were on one of the old slam door trains, and queuing gby the door ready to get off.
 
 The train comes into the station, and gradually slows until it comes to rest by the ticket office, taking 2 or 3 minutes to do so.
 
