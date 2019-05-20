@@ -1,0 +1,12 @@
+---
+Layout:null
+---
+
+  <div class="content container">
+    <h1 class="post-title">Posts By Date</h1>
+    <ul class="posts">
+      {{ range .Data.Pages }}
+        <li><span>{{if .Draft}}[draft] {{end}}<a href="{{ .Permalink }}">{{ .Title }}</a><time class="pull-right post-list">{{ .Date.Format "Mon, Jan 2, 2006" }}</h4></time></span></span></li>
+      {{ end }}
+    </ul>
+  </div>
