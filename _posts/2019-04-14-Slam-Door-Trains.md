@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Slam Door Trains
+description: An unfortunate man risks life and limb, to be early for work!
 category: funny
 tag: slam door trains
 tags: [slam, door, trains, brighton, funny]
