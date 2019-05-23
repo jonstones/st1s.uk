@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slam Door Trains
+title: Slam Door Face Plant
 description: An unfortunate man risks life and limb, to be early for work!
 category: funny
 tag: slam door trains
