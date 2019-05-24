@@ -35,6 +35,9 @@ The train does not leave this time, and we see the Attendant go ask the driver t
 
 The Drunk has walked to the next set of doors... beep beep beep.. the doors open. The Police get on at Door A, while the Drunk playfully jumps off the train at Door B...
 The Police look at us, with an expression "Where d'he go?". We all point at the other door. The Police jump off the train.. the drunk jumps back on again!
-The guy sat opposite, with comic timing, starts playing the Benny Hill theme tune. This, consequently, eggs on the drunk. He starts quickly walking between doors, and bizarrely the Police chase him!! Then after another 30secs, clearly catch on to what is happening, and the Police split, one goes one way, and the other one goes the other way!
 
+The guy sat opposite, with comic timing, starts playing the Benny Hill theme tune. This, consequently, eggs-on the drunk. He starts quickly walking between doors, and bizarrely the Police chase him!! Then after another 30secs, clearly catch on to what is happening, and the Police split, one goes one way, and the other one goes the other!
 
+They catch up with him on the Platform, and are not amused! Cuffs out, they restrain him to the sound of a cheer coming from the train!
+
+The Attendant waves to the driver.. beep beep beep.. doors close.. and we are on our way once more! Next station Home. Thank goodness!!
