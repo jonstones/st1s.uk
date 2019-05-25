@@ -1,5 +1,5 @@
 ---
-Layout:null
+layout: default
 ---
 
   <div class="content container">
