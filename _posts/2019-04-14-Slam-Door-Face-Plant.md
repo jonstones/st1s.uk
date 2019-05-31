@@ -14,10 +14,10 @@ The train comes into the station and gradually slows until it comes to rest by t
 
 On this particular day, we are still moving at quite a pace as we begin passing the platform. 
 
-Due to the fact that the platform is a universal grey tarmac, and wide, our actual speed is deceptive. The gentleman in front, and charged with opening the door for us all, was clearly in a rush. I was second in line. 
+Due to the fact that the platform is a universal grey tarmac and wide, our actual speed is deceptive. The gentleman in front, and charged with opening the door for us all, was clearly in a rush. I was second in line. 
 
 No sooner had the train started passing the platform, the man opened the window. He reached out, unlocked the door, and opened it half way.. he paused for a couple of seconds to judge 'his environment'... all safe.. and he stepped off the train...
-<!--more-->
+
 Just as his feet touched the platform, they were whipped out from under him. In a panic the man manages to get his arm through the window, and start hanging onto the open door.
 
 Being dragged down the platform, scuffing his posh black shoes.. "How long can he hold on for?" is going through my head. There is nothing I can do to help.. if he just stays hanging on, then he can recover his dignity when the train slows some more.
