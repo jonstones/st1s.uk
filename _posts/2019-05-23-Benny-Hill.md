@@ -11,9 +11,9 @@ On a tube line.. heading south. Its the deepest tube line and heads south toward
 
 I'd been working late.. or maybe drinking with mates, and we get as far as Tooting Bec, when a drunk gets onboard, and the train continues on its journey.
 
-He's being harmlessly loud, a large burley chap, singing or ranting. He begins to harass an Indian lady. After a while she's clearly had enough, and she grabs the Emergency Alarm... noooooo! we'll never get home now!... only a few stations left to go!
+He's being harmlessly loud, a large burley chap, singing and ranting. He begins to harass an Indian lady. After a while she's clearly had enough, and she grabs the Emergency Alarm... noooooo! we'll never get home now!... only a few stations left to go!
 
-The train cones to a grinding halt, and over the crackly speaker, a voice says "Hello? What seems to be the issue?".. She replies "I'm being harassed!".. "Ok, We'll get help at the next station.". And the train proceeds to the next station!
+The train comes to a grinding halt, and over the crackly speaker, a voice says "Hello? What seems to be the issue?".. She replies "I'm being harassed!".. "Ok, We'll get help at the next station.". And the train proceeds to the next station!
 
 Empty.. not a sole on the platform. The doors beep open and there is silence. No one actually wants to get off at this station! We sit.. and wait..
 
