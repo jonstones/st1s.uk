@@ -19,7 +19,7 @@ Empty.. not a sole on the platform. The doors beep open and there is silence. No
 
 I assume the driver has radioed for assistance, but the person was probably asleep in a far away room. .. we wait.. The drunk guy has now sat down, and fallen asleep. Great!
 
-Finally after what seemed like an eternity, a short platform Attendant turns up. He asks what has happened, and she points at the sleeping drunk!
+Finally after what seemed like an eternity, a short Platform Attendant turns up. He asks what has happened, and she points at the sleeping drunk!
 
 The Attendant wakes the drunk, who swats him away like a fly! Wakes him again.. more swatting..more waking.. more swatting.. finally the drunk jumps to his feet and shouts "WHAT?"! The drunk is actually quite tall standing over the little Attendant! The Attendant takes a step back, and quietly says 
 "I need you to come with me."
