@@ -41,3 +41,5 @@ The guy sat opposite, with comic timing, starts playing the Benny-Hill theme tun
 They catch up with him on the Platform, and are not amused! Cuffs out, they restrain him to the sound of a cheer coming from the train!
 
 The Attendant waves to the driver.. beep beep beep.. doors close.. and we are on our way once more! Next station Home. Thank goodness!!
+
+Moral of that story: The Police have a limited sense of humour!
