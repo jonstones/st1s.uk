@@ -7,7 +7,7 @@ tag: drunk benny-hill tube
 excerpt_separator: <!--more-->
 ---
 
-On a tube line.. heading south. Its the deepest tube line and heads south towards Moordor.. yes thats from Lord of the Rings and clearly not true, but it may as well be. Morden was not somewhere you wanted to end up at midnight..
+On a tube line.. heading south. Its the deepest tube line and heads south towards Mordor.. yes thats from Lord of the Rings and clearly not true, but it may as well be. Morden was not somewhere you wanted to end up at midnight..
 
 I'd been working late.. or maybe drinking with mates, and we get as far as Tooting Bec, when a drunk gets onboard, and the train continues on its journey.
 
@@ -23,7 +23,7 @@ Finally after what seemed like an eternity, a short Platform Attendant turns up.
 
 The Attendant attempts to wakes the drunk, who swats him away like a fly! Wakes him again.. more swatting.. more waking.. more swatting.. finally the drunk jumps to his feet and shouts "WHAT?"! The drunk is actually quite tall standing over the little Attendant! The Attendant takes a step back, and quietly says 
 "I need you to come with me."
-"No" says the drunk, "I want to get home". The Attendant attempts to lift the back of his arm to coax the man off the train. He's clearly not allowed to assault the drunk, particularly not in front of the train public! The drunk wriggles away, with his arms tucked like a 3yr old attempting to get away from its parent! However the drunk is now standing in front of the door. The Attendant jumps off the train and beckons the drunk to follow him... randomly the door beeps start.. the doors close and the train starts heading to the next station! We watch the Attendant with his confused expression as we pull away.. the drunk waves "Bye Bye!".. shrugs, and finds himself somewhere to sit!!
+"No" says the drunk, "I want to get home". The Attendant attempts to lift the back of his arm to coax the man off the train. He's clearly not allowed to assault the drunk, particularly not in front of the train public! The drunk wriggles away, with his arms tucked t-rex like, similar to a 3yr old attempting to get away from its parent! However the drunk is now standing in front of the door. The Attendant jumps off the train and beckons the drunk to follow him... randomly the door beeps start.. the doors close and the train starts heading to the next station! We watch the Attendant with his confused expression as we pull away.. the drunk waves "Bye Bye!".. shrugs, and finds himself somewhere to sit!!
 
 The people in the seats around me have all started exchanging glances, and started to bond over the common problem! I'm quite grateful that we're proceeding. Things have all quietened down, and I need a wee!
 
@@ -36,7 +36,7 @@ The train does not leave this time, and we see the Attendant go ask the driver t
 The Drunk has walked to the next set of doors... beep beep beep.. the doors open. The Police get on at Door A, while the Drunk playfully jumps off the train at Door B...
 The Police look at us, with an expression "Where d'he go?". We all point at the other door. The Police jump off the train.. the drunk jumps back on again!
 
-The guy sat opposite, with comic timing, starts playing the Benny-Hill theme tune. This, consequently, eggs-on the drunk. He starts quickly walking between doors, and bizarrely the Police chase him!! Then after another 30secs, clearly the Police catch on to what is happening, and the they split. One goes one way, and the other one goes the other!
+The guy sat opposite, with comic timing, starts playing the Benny-Hill theme tune. This, consequently, eggs-on the drunk. He starts quickly walking between doors, and bizarrely the Police chase him!! Then after another 30secs, clearly the Police catch on to what is happening, and they split. One goes one way, and the other one goes the other!
 
 They catch up with him on the Platform, and are not amused! Cuffs out, they restrain him to the sound of a cheer coming from the train!
 
