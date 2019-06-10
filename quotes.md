@@ -9,4 +9,4 @@ title:  'Quotes'
 >"When the facts change, I change my mind. What do you do, sir?"
 *This quote is often attributed to economist John Maynard Keynes. In reality, it’s apocryphal (ie, we can’t track down an exact source that shows Keynes as having said it).*
 
-[Jon not John]({{ site.baseurl }}assets/img/jon_not_john.jpg)
+![Jon not John]({{ site.baseurl }}assets/img/jon_not_john.jpg)
