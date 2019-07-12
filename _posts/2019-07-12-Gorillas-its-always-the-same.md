@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buy Monkeys, Get Stock Market
+title: Thats the way its always been
 description: Using Gorillas to explain why Thats the way its always been...
 category: factual 
 tag: gorillas same-old never changes
