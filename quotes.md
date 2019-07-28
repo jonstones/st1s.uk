@@ -11,3 +11,7 @@ title:  'Quotes'
 
 > ![Jon not John]({{ site.baseurl }}assets/img/jon_not_john.jpg)
 
+> "It only takes one person to blaze a trail..."
+
+> "You only live once. Are you really going to let other people's thoughts dictate that?"
+
