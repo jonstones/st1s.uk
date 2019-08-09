@@ -15,3 +15,4 @@ title:  'Quotes'
 
 > "You only live once. Are you really going to let other people's thoughts dictate that?"
 
+> "Live, as if you'd drop dead in the next 10secs." - Is this possible?
