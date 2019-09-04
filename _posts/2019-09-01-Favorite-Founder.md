@@ -1,5 +1,3 @@
-https://www.instagram.com/p/B16ONHAAuwz/?igshid=jao289i18ho
-
 ---
 layout: post
 title: Who is your favorite founder?
@@ -9,3 +7,6 @@ tag: founders
 excerpt_separator: <!--more-->
 ---
 
+> ![Founders of our time]({{ site.baseurl }}assets/img/founders.jpg)
+
+*https://www.instagram.com/p/B16ONHAAuwz/*
