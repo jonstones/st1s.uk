@@ -22,3 +22,6 @@ title:  'Quotes'
 
 > "There are only two hard things in Computer Science: cache invalidation and naming things."
 * -- Phil Karlton*
+
+> "DevOps, in a sense, is about setting up a value delivery factory - a streamlined, waste-free pipeline through which value can be delivered to the business with a predictably fast cycle time."
+* -- Mark Schwartz 'The Art of Business Value'*
